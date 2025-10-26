@@ -22,3 +22,11 @@ Focus areas: Joins, Aggregations, Subqueries, Views, Indexes, and Time-Based Ana
 - Time-Series Sales Insights (Monthly Trends)
 - Query Optimization using Indexes
 - Creation of Reusable Views
+
+  ## Repository Contents
+- products.csv - dataset1
+- productcat.csv - dataset2
+- productsubcat.csv - dataset3
+- returns.csv - dataset4
+- sales-2017.csv - dataset5
+- ecommerce_sql.sql - SQL query file 
