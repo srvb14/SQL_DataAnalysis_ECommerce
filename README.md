@@ -23,7 +23,7 @@ Focus areas: Joins, Aggregations, Subqueries, Views, Indexes, and Time-Based Ana
 - Query Optimization using Indexes
 - Creation of Reusable Views
 
-  ## Repository Contents
+## Repository Contents
 - products.csv - dataset1
 - productcat.csv - dataset2
 - productsubcat.csv - dataset3
